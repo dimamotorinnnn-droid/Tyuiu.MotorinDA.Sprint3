@@ -21,7 +21,6 @@ namespace Tyuiu.MotorinDA.Sprint3.Task0.V5
             int x = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите значение Y:");
             int y = int.Parse(Console.ReadLine());
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*РЕЗУЛЬТАТ:                                                               *");
             Console.WriteLine("***************************************************************************");
