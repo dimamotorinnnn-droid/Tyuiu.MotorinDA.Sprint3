@@ -10,6 +10,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task0.V5.Lib
             {
                 sum += Math.Pow(1.0 / Math.Sin(i), 2);
             }
+
             return Math.Round(sum, 3);
         }
     }
