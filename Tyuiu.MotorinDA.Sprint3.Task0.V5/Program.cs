@@ -17,6 +17,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task0.V5
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             Console.WriteLine("Введите значение Х:");
             int x = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите значение Y:");

@@ -13,6 +13,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task0.V5.Lib
 
             return Math.Round(sum, 3);
 
+
         }
     }
 }

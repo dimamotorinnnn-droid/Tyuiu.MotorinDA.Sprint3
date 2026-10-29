@@ -13,6 +13,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task0.V5.Test
             double res = ds.GetSumSeries(x, y);
             double wait = 1.412;
             Assert.AreEqual(wait, res);
+
         }
     }
 }
