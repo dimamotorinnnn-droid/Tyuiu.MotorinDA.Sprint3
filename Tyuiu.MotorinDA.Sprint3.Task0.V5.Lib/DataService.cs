@@ -6,9 +6,9 @@ namespace Tyuiu.MotorinDA.Sprint3.Task0.V5.Lib
         public double GetSumSeries(int startValue, int stopValue)
         {
             double sum = 0;
-            for (int i = startValue; i < stopValue; i++)
+            for (int i = startValue; i <= stopValue; i++)
             {
-                sum += Math.Pow(1.0 / Math.Sin(i), 2);
+                sum += Math.Pow(1 / Math.Sin(i), 2);
             }
 
             return Math.Round(sum, 3);
