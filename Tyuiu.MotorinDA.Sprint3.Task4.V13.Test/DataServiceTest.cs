@@ -12,6 +12,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task4.V13.Test
             int stopValue = 5;
             double res = ds.Calculate(startValue, stopValue);
             Assert.AreEqual(2.993, res);
+
         }
     }
 }
