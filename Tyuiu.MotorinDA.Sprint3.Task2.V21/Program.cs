@@ -19,7 +19,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task2.V21
 
 
             Console.WriteLine("Введите значение Х:");
-            int x = int.Parse(Console.ReadLine());
+            double x = double.Parse(Console.ReadLine());
             Console.WriteLine("Введите значение Y:");
             int y = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите значение Z:");

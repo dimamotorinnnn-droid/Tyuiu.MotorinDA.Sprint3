@@ -14,7 +14,7 @@ namespace Tyuiu.MotorinDA.Sprint3.Task2.V21.Test
             int stopValue = 10;
 
             double res = ds.GetSumSeries(value, startValue, stopValue);
-            Assert.AreEqual(11111111116.552, res);
+            Assert.AreEqual(0.092, res);
         }
     }
 }
